@@ -107,3 +107,10 @@ header a {
   font-weight: 600;
   padding: 50px 20px;
 }
+.social {
+  padding: 20px 0;
+}
+.social img {
+  width: 3%;
+  padding: 0 10px;
+}
